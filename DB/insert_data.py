@@ -11,14 +11,14 @@ all_user = [
     user_id="john_doe12",
     name="Doe",
     age=6,
-    email="john_doe12@example.com",
+    email="j12@example.com",
     password_hash="123" # hashes the password
     ),
     User(
     user_id="john1",
     name="john",
     age=5,
-    email="john12@example.com",
+    email="j@example.com",
     password_hash="password123" # hashes the password
     
     )
